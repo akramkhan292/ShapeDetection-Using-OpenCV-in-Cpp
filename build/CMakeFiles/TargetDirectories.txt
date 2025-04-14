@@ -1,0 +1,3 @@
+/Users/akramkhan/pine-academy/C++project/OpenCV_Shape_Detection/build/CMakeFiles/shape_detector.dir
+/Users/akramkhan/pine-academy/C++project/OpenCV_Shape_Detection/build/CMakeFiles/edit_cache.dir
+/Users/akramkhan/pine-academy/C++project/OpenCV_Shape_Detection/build/CMakeFiles/rebuild_cache.dir
